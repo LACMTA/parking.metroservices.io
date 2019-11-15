@@ -1,0 +1,30 @@
+<!-- A table to show parking availability on the Metro system | drg 11/19 -->
+<link rel="preload" href="/static/css/main.min.css" as="style" onload="this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="/static/css/main.min.css"></noscript>
+
+<H2>{{ table_name }}</H2>
+<table id="{{ table_name }}">
+    <thead>
+        <tr>
+            <th>Station</th>
+            <th>Total</th>
+            <th>Available</th>
+            <th>Disabled Total</th>
+            <th>Disabled Available</th>
+        </tr>
+    </thead>
+    <tbody>
+      {% for v in data %}
+      {{key}}
+        <tr>
+            <td>{{ v[0] }}</td>
+            <td>{{ v[1] }}</td>
+            <td>{{ v[2] }}</td>
+            <td>{{ v[3] }}</td>
+            <td>{{ v[4] }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+</table>
+<!-- END -- my last project! drg -->
+

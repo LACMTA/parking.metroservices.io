@@ -1,0 +1,1521 @@
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+/var/www/parking/run.sh: line 7: exec: gunicorn: not found
+[2019-11-12 21:00:53 +0000] [30074] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:00:53 +0000] [30074] [INFO] Listening at: http://0.0.0.0:5000 (30074)
+[2019-11-12 21:00:53 +0000] [30074] [INFO] Using worker: sync
+[2019-11-12 21:00:53 +0000] [30082] [INFO] Booting worker with pid: 30082
+[2019-11-12 21:00:53 +0000] [30083] [INFO] Booting worker with pid: 30083
+[2019-11-12 21:00:53 +0000] [30084] [INFO] Booting worker with pid: 30084
+127.0.0.1 - - [12/Nov/2019:21:21:36 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Lynx/2.8.9dev.16 libwww-FM/2.14 SSL-MM/1.4.1 GNUTLS/3.5.17"
+127.0.0.1 - - [12/Nov/2019:21:24:34 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:24:34 +0000] "GET /favicon.ico HTTP/1.0" 404 142 "http://parking.metroservices.io/stations/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:24:48 +0000] "GET /stations/5b81ee9500000021f0ce8a8b/ HTTP/1.0" 404 142 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:24:54 +0000] "GET /blob/ HTTP/1.0" 404 204 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:24:57 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:25:26 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [12/Nov/2019:21:25:27 +0000] "GET /favicon.ico HTTP/1.0" 404 142 "-" "Slackbot 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [12/Nov/2019:21:30:03 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"
+127.0.0.1 - - [12/Nov/2019:21:30:03 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"
+127.0.0.1 - - [12/Nov/2019:21:30:06 +0000] "GET /.git/config HTTP/1.0" 404 142 "-" "Go-http-client/1.1"
+127.0.0.1 - - [12/Nov/2019:21:30:07 +0000] "GET /.git/config HTTP/1.0" 404 142 "-" "Go-http-client/1.1"
+127.0.0.1 - - [12/Nov/2019:21:31:06 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"
+127.0.0.1 - - [12/Nov/2019:21:31:06 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:32:29 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:32:29 +0000] "GET /favicon.ico HTTP/1.0" 404 142 "https://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:32:48 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+127.0.0.1 - - [12/Nov/2019:21:32:48 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Linux; Android 7.0; SM-G930V Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.125 Mobile Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:33:06 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [12/Nov/2019:21:33:06 +0000] "GET /favicon.ico HTTP/1.0" 404 142 "-" "Slackbot 1.0 (+https://api.slack.com/robots)"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:33:34 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:33:34 +0000] "GET /favicon.ico HTTP/1.0" 404 142 "https://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:35:06 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:32 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:32 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:33 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:36 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:36 +0000] "GET /swaggerui/droid-sans.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:36 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:36 +0000] "GET /swaggerui/swagger-ui.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:36 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:37:37 +0000] "GET /swagger.json HTTP/1.0" 200 910 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:16 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:17 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:18 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:18 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:19 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:20 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:21 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:22 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:23 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:24 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:26 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:26 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:28 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:28 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:29 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:32 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:33 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:34 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:34 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:35 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:36 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:37 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c0384e0>
+127.0.0.1 - - [12/Nov/2019:21:46:37 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c037550>
+127.0.0.1 - - [12/Nov/2019:21:46:38 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f030c391390>
+127.0.0.1 - - [12/Nov/2019:21:46:38 +0000] "GET /blob HTTP/1.0" 200 1240 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+[2019-11-12 21:49:00 +0000] [30074] [INFO] Handling signal: term
+[2019-11-12 21:49:00 +0000] [30083] [INFO] Worker exiting (pid: 30083)
+[2019-11-12 21:49:00 +0000] [30084] [INFO] Worker exiting (pid: 30084)
+[2019-11-12 21:49:00 +0000] [30082] [INFO] Worker exiting (pid: 30082)
+[2019-11-12 21:49:01 +0000] [30074] [INFO] Shutting down: Master
+[2019-11-12 21:49:02 +0000] [32010] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:02 +0000] [32010] [INFO] Listening at: http://0.0.0.0:5000 (32010)
+[2019-11-12 21:49:02 +0000] [32010] [INFO] Using worker: sync
+[2019-11-12 21:49:02 +0000] [32014] [INFO] Booting worker with pid: 32014
+[2019-11-12 21:49:02 +0000] [32014] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:02 +0000] [32014] [INFO] Worker exiting (pid: 32014)
+[2019-11-12 21:49:02 +0000] [32010] [INFO] Shutting down: Master
+[2019-11-12 21:49:02 +0000] [32010] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:03 +0000] [32015] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:03 +0000] [32015] [INFO] Listening at: http://0.0.0.0:5000 (32015)
+[2019-11-12 21:49:03 +0000] [32015] [INFO] Using worker: sync
+[2019-11-12 21:49:03 +0000] [32019] [INFO] Booting worker with pid: 32019
+[2019-11-12 21:49:03 +0000] [32019] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:03 +0000] [32019] [INFO] Worker exiting (pid: 32019)
+[2019-11-12 21:49:03 +0000] [32020] [INFO] Booting worker with pid: 32020
+[2019-11-12 21:49:03 +0000] [32020] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:03 +0000] [32020] [INFO] Worker exiting (pid: 32020)
+[2019-11-12 21:49:03 +0000] [32021] [INFO] Booting worker with pid: 32021
+[2019-11-12 21:49:03 +0000] [32021] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:03 +0000] [32021] [INFO] Worker exiting (pid: 32021)
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 202, in run
+    self.manage_workers()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 545, in manage_workers
+    self.spawn_workers()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 617, in spawn_workers
+    time.sleep(0.1 * random.random())
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/var/www/parking/venv/bin/gunicorn", line 8, in <module>
+    sys.exit(run())
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 58, in run
+    WSGIApplication("%(prog)s [OPTIONS] [APP_MODULE]").run()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 219, in run
+    super().run()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 72, in run
+    Arbiter(self).run()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 229, in run
+    self.halt(reason=inst.reason, exit_status=inst.exit_status)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 342, in halt
+    self.stop()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 393, in stop
+    time.sleep(0.1)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 242, in handle_chld
+    self.reap_workers()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 525, in reap_workers
+    raise HaltServer(reason, self.WORKER_BOOT_ERROR)
+gunicorn.errors.HaltServer: <HaltServer 'Worker failed to boot.' 3>
+[2019-11-12 21:49:05 +0000] [32022] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:05 +0000] [32022] [INFO] Listening at: http://0.0.0.0:5000 (32022)
+[2019-11-12 21:49:05 +0000] [32022] [INFO] Using worker: sync
+[2019-11-12 21:49:05 +0000] [32026] [INFO] Booting worker with pid: 32026
+[2019-11-12 21:49:05 +0000] [32026] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:05 +0000] [32026] [INFO] Worker exiting (pid: 32026)
+[2019-11-12 21:49:05 +0000] [32027] [INFO] Booting worker with pid: 32027
+[2019-11-12 21:49:05 +0000] [32027] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:05 +0000] [32027] [INFO] Worker exiting (pid: 32027)
+[2019-11-12 21:49:05 +0000] [32022] [INFO] Shutting down: Master
+[2019-11-12 21:49:05 +0000] [32022] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:09 +0000] [32028] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:09 +0000] [32028] [INFO] Listening at: http://0.0.0.0:5000 (32028)
+[2019-11-12 21:49:09 +0000] [32028] [INFO] Using worker: sync
+[2019-11-12 21:49:09 +0000] [32032] [INFO] Booting worker with pid: 32032
+[2019-11-12 21:49:09 +0000] [32032] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:09 +0000] [32032] [INFO] Worker exiting (pid: 32032)
+[2019-11-12 21:49:09 +0000] [32028] [INFO] Shutting down: Master
+[2019-11-12 21:49:09 +0000] [32028] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:49 +0000] [32039] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:49 +0000] [32039] [INFO] Listening at: http://0.0.0.0:5000 (32039)
+[2019-11-12 21:49:49 +0000] [32039] [INFO] Using worker: sync
+[2019-11-12 21:49:49 +0000] [32043] [INFO] Booting worker with pid: 32043
+[2019-11-12 21:49:49 +0000] [32043] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:49 +0000] [32043] [INFO] Worker exiting (pid: 32043)
+[2019-11-12 21:49:49 +0000] [32039] [INFO] Shutting down: Master
+[2019-11-12 21:49:49 +0000] [32039] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:51 +0000] [32044] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:51 +0000] [32044] [INFO] Listening at: http://0.0.0.0:5000 (32044)
+[2019-11-12 21:49:51 +0000] [32044] [INFO] Using worker: sync
+[2019-11-12 21:49:51 +0000] [32048] [INFO] Booting worker with pid: 32048
+[2019-11-12 21:49:51 +0000] [32048] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:51 +0000] [32048] [INFO] Worker exiting (pid: 32048)
+[2019-11-12 21:49:51 +0000] [32044] [INFO] Shutting down: Master
+[2019-11-12 21:49:51 +0000] [32044] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:53 +0000] [32049] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:53 +0000] [32049] [INFO] Listening at: http://0.0.0.0:5000 (32049)
+[2019-11-12 21:49:53 +0000] [32049] [INFO] Using worker: sync
+[2019-11-12 21:49:53 +0000] [32053] [INFO] Booting worker with pid: 32053
+[2019-11-12 21:49:53 +0000] [32053] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:53 +0000] [32053] [INFO] Worker exiting (pid: 32053)
+[2019-11-12 21:49:53 +0000] [32054] [INFO] Booting worker with pid: 32054
+[2019-11-12 21:49:53 +0000] [32054] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:53 +0000] [32054] [INFO] Worker exiting (pid: 32054)
+[2019-11-12 21:49:53 +0000] [32049] [INFO] Shutting down: Master
+[2019-11-12 21:49:53 +0000] [32049] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:49:56 +0000] [32055] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:49:56 +0000] [32055] [INFO] Listening at: http://0.0.0.0:5000 (32055)
+[2019-11-12 21:49:56 +0000] [32055] [INFO] Using worker: sync
+[2019-11-12 21:49:56 +0000] [32059] [INFO] Booting worker with pid: 32059
+[2019-11-12 21:49:56 +0000] [32059] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 116
+    l = [lot['name'],lot['total'],lot['free'],lot['disabledtotal'],lot['disabledfree']]]
+                                                                                       ^
+SyntaxError: invalid syntax
+[2019-11-12 21:49:56 +0000] [32059] [INFO] Worker exiting (pid: 32059)
+[2019-11-12 21:49:56 +0000] [32055] [INFO] Shutting down: Master
+[2019-11-12 21:49:56 +0000] [32055] [INFO] Reason: Worker failed to boot.
+[2019-11-12 21:50:33 +0000] [32066] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:50:33 +0000] [32066] [INFO] Listening at: http://0.0.0.0:5000 (32066)
+[2019-11-12 21:50:33 +0000] [32066] [INFO] Using worker: sync
+[2019-11-12 21:50:33 +0000] [32070] [INFO] Booting worker with pid: 32070
+[2019-11-12 21:50:34 +0000] [32071] [INFO] Booting worker with pid: 32071
+[2019-11-12 21:50:34 +0000] [32072] [INFO] Booting worker with pid: 32072
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7ff5ecc11d68>
+127.0.0.1 - - [12/Nov/2019:21:50:40 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+[2019-11-12 21:53:16 +0000] [32066] [INFO] Handling signal: term
+[2019-11-12 21:53:16 +0000] [32070] [INFO] Worker exiting (pid: 32070)
+[2019-11-12 21:53:16 +0000] [32071] [INFO] Worker exiting (pid: 32071)
+[2019-11-12 21:53:16 +0000] [32072] [INFO] Worker exiting (pid: 32072)
+[2019-11-12 21:53:17 +0000] [32066] [INFO] Shutting down: Master
+[2019-11-12 21:53:17 +0000] [32082] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 21:53:17 +0000] [32082] [INFO] Listening at: http://0.0.0.0:5000 (32082)
+[2019-11-12 21:53:17 +0000] [32082] [INFO] Using worker: sync
+[2019-11-12 21:53:17 +0000] [32086] [INFO] Booting worker with pid: 32086
+[2019-11-12 21:53:17 +0000] [32087] [INFO] Booting worker with pid: 32087
+[2019-11-12 21:53:17 +0000] [32088] [INFO] Booting worker with pid: 32088
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:21:53:21 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:21:53:23 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e952e10>
+127.0.0.1 - - [12/Nov/2019:21:53:24 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:21:53:24 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:21:53:25 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:21:53:26 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:21:53:26 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e952e10>
+127.0.0.1 - - [12/Nov/2019:21:53:27 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:21:53:27 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:50 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:53 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:54 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:54 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:56 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:56 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:57 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:53:57 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:25 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:25 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:26 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:26 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:27 +0000] "GET /stations/ HTTP/1.0" 200 206 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:21:54:37 +0000] "HEAD /stations/ HTTP/1.0" 200 0 "-" "curl/7.58.0"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:21:54:50 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:21:54:51 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e952e10>
+127.0.0.1 - - [12/Nov/2019:22:02:14 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [12/Nov/2019:22:16:06 +0000] "GET / HTTP/1.0" 200 3836 "http://www.bing.com/search?q=amazon" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+127.0.0.1 - - [12/Nov/2019:22:16:08 +0000] "GET /swaggerui/droid-sans.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+127.0.0.1 - - [12/Nov/2019:22:16:08 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+127.0.0.1 - - [12/Nov/2019:22:16:08 +0000] "GET /swaggerui/swagger-ui.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+127.0.0.1 - - [12/Nov/2019:22:16:08 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+127.0.0.1 - - [12/Nov/2019:22:16:10 +0000] "GET /swagger.json HTTP/1.0" 200 910 "http://parking.metroservices.io/" "Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2)"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:22:19:33 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e952e10>
+127.0.0.1 - - [12/Nov/2019:22:20:43 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956d68>
+127.0.0.1 - - [12/Nov/2019:22:20:44 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e956da0>
+127.0.0.1 - - [12/Nov/2019:22:20:45 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7fd42e952e10>
+127.0.0.1 - - [12/Nov/2019:22:20:45 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+[2019-11-12 22:21:06 +0000] [32082] [INFO] Handling signal: term
+[2019-11-12 22:21:06 +0000] [32086] [INFO] Worker exiting (pid: 32086)
+[2019-11-12 22:21:06 +0000] [32087] [INFO] Worker exiting (pid: 32087)
+[2019-11-12 22:21:06 +0000] [32088] [INFO] Worker exiting (pid: 32088)
+[2019-11-12 22:21:07 +0000] [32082] [INFO] Shutting down: Master
+[2019-11-12 22:21:07 +0000] [32103] [INFO] Starting gunicorn 20.0.0
+[2019-11-12 22:21:07 +0000] [32103] [INFO] Listening at: http://0.0.0.0:5000 (32103)
+[2019-11-12 22:21:07 +0000] [32103] [INFO] Using worker: sync
+[2019-11-12 22:21:07 +0000] [32107] [INFO] Booting worker with pid: 32107
+[2019-11-12 22:21:07 +0000] [32108] [INFO] Booting worker with pid: 32108
+[2019-11-12 22:21:07 +0000] [32109] [INFO] Booting worker with pid: 32109
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119d30>
+127.0.0.1 - - [12/Nov/2019:22:21:17 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119da0>
+127.0.0.1 - - [12/Nov/2019:22:21:18 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119da0>
+127.0.0.1 - - [12/Nov/2019:22:50:26 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:41:55 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:41:56 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:41:56 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:00 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:00 +0000] "GET /swaggerui/droid-sans.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:00 +0000] "GET /swaggerui/swagger-ui.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:00 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:00 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:00:42:08 +0000] "GET /swagger.json HTTP/1.0" 200 910 "http://parking.metroservices.io/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.70 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:01:20:39 +0000] "GET / HTTP/1.0" 200 3823 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:01:20:39 +0000] "GET / HTTP/1.0" 200 3827 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:01:20:39 +0000] "GET / HTTP/1.0" 200 3830 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:01:20:39 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:01:20:39 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:02:31:26 +0000] "GET / HTTP/1.0" 200 3826 "-" "-"
+127.0.0.1 - - [13/Nov/2019:06:26:39 +0000] "GET / HTTP/1.0" 200 3826 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:10:11:51 +0000] "GET / HTTP/1.0" 200 3826 "-" "NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com"
+127.0.0.1 - - [13/Nov/2019:10:16:31 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:10:16:31 +0000] "GET /swaggerui/droid-sans.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:10:16:31 +0000] "GET /swaggerui/swagger-ui.css HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:10:16:31 +0000] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:10:16:31 +0000] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.0" 200 0 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:10:16:34 +0000] "GET /swagger.json HTTP/1.0" 200 910 "http://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0"
+127.0.0.1 - - [13/Nov/2019:13:00:27 +0000] "GET / HTTP/1.0" 200 3823 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:13:00:27 +0000] "GET / HTTP/1.0" 200 3827 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:13:00:27 +0000] "GET / HTTP/1.0" 200 3830 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:13:00:27 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:13:00:27 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+127.0.0.1 - - [13/Nov/2019:15:51:09 +0000] "GET / HTTP/1.0" 200 3826 "-" "Mozilla/5.0 zgrab/0.x"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119da0>
+127.0.0.1 - - [13/Nov/2019:19:02:00 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b116e10>
+127.0.0.1 - - [13/Nov/2019:19:02:02 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119d30>
+127.0.0.1 - - [13/Nov/2019:19:02:04 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [13/Nov/2019:19:45:12 +0000] "GET / HTTP/1.0" 200 3826 "-" "HTTP Banner Detection (https://security.ipip.net)"
+127.0.0.1 - - [13/Nov/2019:20:50:58 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0"
+127.0.0.1 - - [13/Nov/2019:20:51:07 +0000] "GET / HTTP/1.0" 200 3836 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0"
+127.0.0.1 - - [13/Nov/2019:23:32:45 +0000] "GET / HTTP/1.0" 200 3826 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:00:20:07 +0000] "GET / HTTP/1.0" 200 3823 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:00:20:07 +0000] "GET / HTTP/1.0" 200 3827 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:00:20:07 +0000] "GET / HTTP/1.0" 200 3830 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:00:20:07 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:00:20:07 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 142 "-" "AWS Security Scanner"
+<pytablewriter.writer.text._html.HtmlTableWriter object at 0x7f224b119da0>
+127.0.0.1 - - [14/Nov/2019:03:00:16 +0000] "GET /blob HTTP/1.0" 200 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:04:26:34 +0000] "GET / HTTP/1.0" 200 3826 "-" "-"
+[2019-11-14 05:35:35 +0000] [32103] [INFO] Handling signal: term
+[2019-11-14 05:35:35 +0000] [32107] [INFO] Worker exiting (pid: 32107)
+[2019-11-14 05:35:35 +0000] [32108] [INFO] Worker exiting (pid: 32108)
+[2019-11-14 05:35:35 +0000] [32109] [INFO] Worker exiting (pid: 32109)
+[2019-11-14 05:35:36 +0000] [32103] [INFO] Shutting down: Master
+[2019-11-14 05:35:37 +0000] [1957] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:35:37 +0000] [1957] [INFO] Listening at: http://0.0.0.0:5000 (1957)
+[2019-11-14 05:35:37 +0000] [1957] [INFO] Using worker: sync
+[2019-11-14 05:35:37 +0000] [1961] [INFO] Booting worker with pid: 1961
+[2019-11-14 05:35:37 +0000] [1961] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 2, in <module>
+    from cachetools import TTLCache
+ModuleNotFoundError: No module named 'cachetools'
+[2019-11-14 05:35:37 +0000] [1961] [INFO] Worker exiting (pid: 1961)
+[2019-11-14 05:35:37 +0000] [1957] [INFO] Shutting down: Master
+[2019-11-14 05:35:37 +0000] [1957] [INFO] Reason: Worker failed to boot.
+[2019-11-14 05:35:38 +0000] [1962] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:35:38 +0000] [1962] [INFO] Listening at: http://0.0.0.0:5000 (1962)
+[2019-11-14 05:35:38 +0000] [1962] [INFO] Using worker: sync
+[2019-11-14 05:35:38 +0000] [1966] [INFO] Booting worker with pid: 1966
+[2019-11-14 05:35:38 +0000] [1966] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 2, in <module>
+    from cachetools import TTLCache
+ModuleNotFoundError: No module named 'cachetools'
+[2019-11-14 05:35:38 +0000] [1966] [INFO] Worker exiting (pid: 1966)
+[2019-11-14 05:35:38 +0000] [1962] [INFO] Shutting down: Master
+[2019-11-14 05:35:38 +0000] [1962] [INFO] Reason: Worker failed to boot.
+[2019-11-14 05:35:40 +0000] [1967] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:35:40 +0000] [1967] [INFO] Listening at: http://0.0.0.0:5000 (1967)
+[2019-11-14 05:35:40 +0000] [1967] [INFO] Using worker: sync
+[2019-11-14 05:35:40 +0000] [1971] [INFO] Booting worker with pid: 1971
+[2019-11-14 05:35:40 +0000] [1971] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 2, in <module>
+    from cachetools import TTLCache
+ModuleNotFoundError: No module named 'cachetools'
+[2019-11-14 05:35:40 +0000] [1971] [INFO] Worker exiting (pid: 1971)
+[2019-11-14 05:35:40 +0000] [1967] [INFO] Shutting down: Master
+[2019-11-14 05:35:40 +0000] [1967] [INFO] Reason: Worker failed to boot.
+[2019-11-14 05:35:44 +0000] [1972] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:35:44 +0000] [1972] [INFO] Listening at: http://0.0.0.0:5000 (1972)
+[2019-11-14 05:35:44 +0000] [1972] [INFO] Using worker: sync
+[2019-11-14 05:35:44 +0000] [1976] [INFO] Booting worker with pid: 1976
+[2019-11-14 05:35:44 +0000] [1976] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 133, in init_process
+    self.load_wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/workers/base.py", line 142, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 49, in load
+    return self.load_wsgiapp()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 39, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/gunicorn/util.py", line 331, in import_app
+    mod = importlib.import_module(module)
+  File "/var/www/parking/venv/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/var/www/parking/wsgi.py", line 2, in <module>
+    from cachetools import TTLCache
+ModuleNotFoundError: No module named 'cachetools'
+[2019-11-14 05:35:44 +0000] [1976] [INFO] Worker exiting (pid: 1976)
+[2019-11-14 05:35:44 +0000] [1972] [INFO] Shutting down: Master
+[2019-11-14 05:35:44 +0000] [1972] [INFO] Reason: Worker failed to boot.
+[2019-11-14 05:36:17 +0000] [1998] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:36:17 +0000] [1998] [INFO] Listening at: http://0.0.0.0:5000 (1998)
+[2019-11-14 05:36:17 +0000] [1998] [INFO] Using worker: sync
+[2019-11-14 05:36:17 +0000] [2002] [INFO] Booting worker with pid: 2002
+[2019-11-14 05:36:18 +0000] [2003] [INFO] Booting worker with pid: 2003
+[2019-11-14 05:36:18 +0000] [2004] [INFO] Booting worker with pid: 2004
+[2019-11-14 05:36:49,775] ERROR in app: Exception on /blob [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+<table id="GoldLineParkingstatusat201911130936PM">
+    <caption>Gold Line Parking status at 2019-11-13 09:36 PM</caption>
+    <thead>
+        <tr>
+            <th>Station</th>
+            <th>Total</th>
+            <th>Available</th>
+            <th>Disabled Total</th>
+            <th>Disabled Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">APU/Citrus College</td>
+            <td align="right">206</td>
+            <td align="right">165</td>
+            <td align="right">7</td>
+            <td align="right">5</td>
+        </tr>
+        <tr>
+            <td align="left">Irwindale</td>
+            <td align="right">349</td>
+            <td align="right">336</td>
+            <td align="right">7</td>
+            <td align="right">7</td>
+        </tr>
+        <tr>
+            <td align="left">Monrovia</td>
+            <td align="right">343</td>
+            <td align="right">321</td>
+            <td align="right">8</td>
+            <td align="right">8</td>
+        </tr>
+    </tbody>
+</table>
+127.0.0.1 - - [14/Nov/2019:05:36:49 +0000] "GET /blob HTTP/1.0" 500 290 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:36:50 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:09 +0000] "GET / HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:09 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:09 +0000] "GET / HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:13 +0000] "GET / HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:15 +0000] "GET /stations/ HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:15 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/stations/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:37:34 +0000] "GET / HTTP/1.0" 404 232 "http://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:37:34,950] ERROR in app: Exception on /blob [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+<table id="GoldLineParkingstatusat201911130937PM">
+    <caption>Gold Line Parking status at 2019-11-13 09:37 PM</caption>
+    <thead>
+        <tr>
+            <th>Station</th>
+            <th>Total</th>
+            <th>Available</th>
+            <th>Disabled Total</th>
+            <th>Disabled Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">APU/Citrus College</td>
+            <td align="right">206</td>
+            <td align="right">165</td>
+            <td align="right">7</td>
+            <td align="right">5</td>
+        </tr>
+        <tr>
+            <td align="left">Irwindale</td>
+            <td align="right">349</td>
+            <td align="right">336</td>
+            <td align="right">7</td>
+            <td align="right">7</td>
+        </tr>
+        <tr>
+            <td align="left">Monrovia</td>
+            <td align="right">343</td>
+            <td align="right">321</td>
+            <td align="right">8</td>
+            <td align="right">8</td>
+        </tr>
+    </tbody>
+</table>
+127.0.0.1 - - [14/Nov/2019:05:37:34 +0000] "GET /blob HTTP/1.0" 500 290 "http://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:37:36,307] ERROR in app: Exception on /blob [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+<table id="GoldLineParkingstatusat201911130937PM">
+    <caption>Gold Line Parking status at 2019-11-13 09:37 PM</caption>
+    <thead>
+        <tr>
+            <th>Station</th>
+            <th>Total</th>
+            <th>Available</th>
+            <th>Disabled Total</th>
+            <th>Disabled Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">APU/Citrus College</td>
+            <td align="right">206</td>
+            <td align="right">165</td>
+            <td align="right">7</td>
+            <td align="right">5</td>
+        </tr>
+        <tr>
+            <td align="left">Irwindale</td>
+            <td align="right">349</td>
+            <td align="right">336</td>
+            <td align="right">7</td>
+            <td align="right">7</td>
+        </tr>
+        <tr>
+            <td align="left">Monrovia</td>
+            <td align="right">343</td>
+            <td align="right">321</td>
+            <td align="right">8</td>
+            <td align="right">8</td>
+        </tr>
+    </tbody>
+</table>
+127.0.0.1 - - [14/Nov/2019:05:37:36 +0000] "GET /blob HTTP/1.0" 500 290 "http://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:37:53,977] ERROR in app: Exception on /blob [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2097, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+<table id="GoldLineParkingstatusat201911130937PM">
+    <caption>Gold Line Parking status at 2019-11-13 09:37 PM</caption>
+    <thead>
+        <tr>
+            <th>Station</th>
+            <th>Total</th>
+            <th>Available</th>
+            <th>Disabled Total</th>
+            <th>Disabled Available</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">APU/Citrus College</td>
+            <td align="right">206</td>
+            <td align="right">165</td>
+            <td align="right">7</td>
+            <td align="right">5</td>
+        </tr>
+        <tr>
+            <td align="left">Irwindale</td>
+            <td align="right">349</td>
+            <td align="right">336</td>
+            <td align="right">7</td>
+            <td align="right">7</td>
+        </tr>
+        <tr>
+            <td align="left">Monrovia</td>
+            <td align="right">343</td>
+            <td align="right">321</td>
+            <td align="right">8</td>
+            <td align="right">8</td>
+        </tr>
+    </tbody>
+</table>
+127.0.0.1 - - [14/Nov/2019:05:37:53 +0000] "GET /blob HTTP/1.0" 500 290 "http://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:39:05 +0000] [1998] [INFO] Handling signal: term
+[2019-11-14 05:39:05 +0000] [2002] [INFO] Worker exiting (pid: 2002)
+[2019-11-14 05:39:05 +0000] [2003] [INFO] Worker exiting (pid: 2003)
+[2019-11-14 05:39:05 +0000] [2004] [INFO] Worker exiting (pid: 2004)
+[2019-11-14 05:39:06 +0000] [1998] [INFO] Shutting down: Master
+[2019-11-14 05:39:07 +0000] [2030] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:39:07 +0000] [2030] [INFO] Listening at: http://0.0.0.0:5000 (2030)
+[2019-11-14 05:39:07 +0000] [2030] [INFO] Using worker: sync
+[2019-11-14 05:39:07 +0000] [2034] [INFO] Booting worker with pid: 2034
+[2019-11-14 05:39:07 +0000] [2035] [INFO] Booting worker with pid: 2035
+[2019-11-14 05:39:07 +0000] [2036] [INFO] Booting worker with pid: 2036
+127.0.0.1 - - [14/Nov/2019:05:39:14 +0000] "GET /blob HTTP/1.0" 404 232 "http://parking.metroservices.io/blob" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:39:19 +0000] "GET / HTTP/1.0" 200 2 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:39:50 +0000] [2030] [INFO] Handling signal: term
+[2019-11-14 05:39:50 +0000] [2034] [INFO] Worker exiting (pid: 2034)
+[2019-11-14 05:39:50 +0000] [2035] [INFO] Worker exiting (pid: 2035)
+[2019-11-14 05:39:50 +0000] [2036] [INFO] Worker exiting (pid: 2036)
+[2019-11-14 05:39:51 +0000] [2030] [INFO] Shutting down: Master
+[2019-11-14 05:39:52 +0000] [2047] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:39:52 +0000] [2047] [INFO] Listening at: http://0.0.0.0:5000 (2047)
+[2019-11-14 05:39:52 +0000] [2047] [INFO] Using worker: sync
+[2019-11-14 05:39:52 +0000] [2051] [INFO] Booting worker with pid: 2051
+[2019-11-14 05:39:52 +0000] [2052] [INFO] Booting worker with pid: 2052
+[2019-11-14 05:39:52 +0000] [2053] [INFO] Booting worker with pid: 2053
+[2019-11-14 05:40:01,579] ERROR in app: Exception on / [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1967, in finalize_request
+    response = self.make_response(rv)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2130, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a HtmlTableWriter.
+127.0.0.1 - - [14/Nov/2019:05:40:01 +0000] "GET / HTTP/1.0" 500 290 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 05:42:01 +0000] [2047] [INFO] Handling signal: term
+[2019-11-14 05:42:01 +0000] [2051] [INFO] Worker exiting (pid: 2051)
+[2019-11-14 05:42:01 +0000] [2052] [INFO] Worker exiting (pid: 2052)
+[2019-11-14 05:42:01 +0000] [2053] [INFO] Worker exiting (pid: 2053)
+[2019-11-14 05:42:02 +0000] [2047] [INFO] Shutting down: Master
+[2019-11-14 05:42:03 +0000] [2062] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 05:42:03 +0000] [2062] [INFO] Listening at: http://0.0.0.0:5000 (2062)
+[2019-11-14 05:42:03 +0000] [2062] [INFO] Using worker: sync
+[2019-11-14 05:42:03 +0000] [2066] [INFO] Booting worker with pid: 2066
+[2019-11-14 05:42:03 +0000] [2067] [INFO] Booting worker with pid: 2067
+[2019-11-14 05:42:03 +0000] [2068] [INFO] Booting worker with pid: 2068
+127.0.0.1 - - [14/Nov/2019:05:42:13 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:05:42:41 +0000] "GET / HTTP/1.0" 200 1048 "-" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [14/Nov/2019:05:42:41 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "-" "Slackbot 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [14/Nov/2019:05:48:06 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:50:51 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:47 +0000] "GET / HTTP/1.0" 200 1048 "-" "Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [14/Nov/2019:05:51:47 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "-" "Slackbot 1.0 (+https://api.slack.com/robots)"
+127.0.0.1 - - [14/Nov/2019:05:51:54 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:55 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:55 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:56 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:56 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:57 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:57 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:57 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:58 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:58 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:58 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:59 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:59 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:51:59 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:00 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:00 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:01 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:01 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:02 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:02 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:02 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:02 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:03 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:03 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:04 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:04 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:05 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:05 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:52:06 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:53:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:53:45 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:05:57:52 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:06:18:38 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:06:43:33 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:12:19:44 +0000] "GET / HTTP/1.0" 200 1048 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:12:19:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:12:19:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:12:19:45 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 232 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:12:19:45 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 232 "-" "AWS Security Scanner"
+127.0.0.1 - - [14/Nov/2019:12:40:16 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 zgrab/0.x"
+127.0.0.1 - - [14/Nov/2019:14:43:41 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:15:22:10 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:22:10 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:22:21 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:22:46 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:24:46 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:15:24:47 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:15:25:22 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:15:25:39 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:15:34:39 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:37:44 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:37:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:37:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:37:45 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:43:15 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:43:39 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:43:43 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:19 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:20 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:20 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:25 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:26 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:27 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:27 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:45:27 +0000] "GET / HTTP/1.0" 200 1048 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 15:48:59 +0000] [2062] [INFO] Handling signal: term
+[2019-11-14 15:48:59 +0000] [2066] [INFO] Worker exiting (pid: 2066)
+[2019-11-14 15:48:59 +0000] [2067] [INFO] Worker exiting (pid: 2067)
+[2019-11-14 15:48:59 +0000] [2068] [INFO] Worker exiting (pid: 2068)
+[2019-11-14 15:49:00 +0000] [2062] [INFO] Shutting down: Master
+[2019-11-14 15:49:01 +0000] [9053] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 15:49:01 +0000] [9053] [INFO] Listening at: http://0.0.0.0:5000 (9053)
+[2019-11-14 15:49:01 +0000] [9053] [INFO] Using worker: sync
+[2019-11-14 15:49:01 +0000] [9057] [INFO] Booting worker with pid: 9057
+[2019-11-14 15:49:01 +0000] [9058] [INFO] Booting worker with pid: 9058
+[2019-11-14 15:49:01 +0000] [9059] [INFO] Booting worker with pid: 9059
+127.0.0.1 - - [14/Nov/2019:15:49:05 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 15:50:15 +0000] [9053] [INFO] Handling signal: term
+[2019-11-14 15:50:15 +0000] [9057] [INFO] Worker exiting (pid: 9057)
+[2019-11-14 15:50:15 +0000] [9058] [INFO] Worker exiting (pid: 9058)
+[2019-11-14 15:50:15 +0000] [9059] [INFO] Worker exiting (pid: 9059)
+[2019-11-14 15:50:16 +0000] [9053] [INFO] Shutting down: Master
+[2019-11-14 15:50:17 +0000] [9075] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 15:50:17 +0000] [9075] [INFO] Listening at: http://0.0.0.0:5000 (9075)
+[2019-11-14 15:50:17 +0000] [9075] [INFO] Using worker: sync
+[2019-11-14 15:50:17 +0000] [9079] [INFO] Booting worker with pid: 9079
+[2019-11-14 15:50:17 +0000] [9080] [INFO] Booting worker with pid: 9080
+[2019-11-14 15:50:17 +0000] [9081] [INFO] Booting worker with pid: 9081
+127.0.0.1 - - [14/Nov/2019:15:50:24 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:50:25 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:50:27 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:50:28 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:56:36 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:15:58:39 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:03:54 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:03:56 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:04:00 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:04:02 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:04:05 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:04:07 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:04:52 +0000] "GET / HTTP/1.0" 200 1046 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"
+[2019-11-14 16:05:01 +0000] [9075] [INFO] Handling signal: term
+[2019-11-14 16:05:01 +0000] [9080] [INFO] Worker exiting (pid: 9080)
+[2019-11-14 16:05:01 +0000] [9081] [INFO] Worker exiting (pid: 9081)
+[2019-11-14 16:05:01 +0000] [9079] [INFO] Worker exiting (pid: 9079)
+[2019-11-14 16:05:01 +0000] [9075] [INFO] Shutting down: Master
+[2019-11-14 16:05:02 +0000] [9146] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:05:02 +0000] [9146] [INFO] Listening at: http://0.0.0.0:5000 (9146)
+[2019-11-14 16:05:02 +0000] [9146] [INFO] Using worker: sync
+[2019-11-14 16:05:02 +0000] [9150] [INFO] Booting worker with pid: 9150
+[2019-11-14 16:05:02 +0000] [9151] [INFO] Booting worker with pid: 9151
+[2019-11-14 16:05:02 +0000] [9152] [INFO] Booting worker with pid: 9152
+127.0.0.1 - - [14/Nov/2019:16:08:02 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 16:10:01 +0000] [9146] [INFO] Handling signal: term
+[2019-11-14 16:10:01 +0000] [9150] [INFO] Worker exiting (pid: 9150)
+[2019-11-14 16:10:01 +0000] [9151] [INFO] Worker exiting (pid: 9151)
+[2019-11-14 16:10:01 +0000] [9152] [INFO] Worker exiting (pid: 9152)
+[2019-11-14 16:10:01 +0000] [9146] [INFO] Shutting down: Master
+[2019-11-14 16:10:02 +0000] [9160] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:10:02 +0000] [9160] [INFO] Listening at: http://0.0.0.0:5000 (9160)
+[2019-11-14 16:10:02 +0000] [9160] [INFO] Using worker: sync
+[2019-11-14 16:10:02 +0000] [9164] [INFO] Booting worker with pid: 9164
+[2019-11-14 16:10:02 +0000] [9165] [INFO] Booting worker with pid: 9165
+[2019-11-14 16:10:02 +0000] [9166] [INFO] Booting worker with pid: 9166
+[2019-11-14 16:15:01 +0000] [9160] [INFO] Handling signal: term
+[2019-11-14 16:15:01 +0000] [9164] [INFO] Worker exiting (pid: 9164)
+[2019-11-14 16:15:01 +0000] [9165] [INFO] Worker exiting (pid: 9165)
+[2019-11-14 16:15:01 +0000] [9166] [INFO] Worker exiting (pid: 9166)
+[2019-11-14 16:15:01 +0000] [9160] [INFO] Shutting down: Master
+[2019-11-14 16:15:02 +0000] [9176] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:15:02 +0000] [9176] [INFO] Listening at: http://0.0.0.0:5000 (9176)
+[2019-11-14 16:15:02 +0000] [9176] [INFO] Using worker: sync
+[2019-11-14 16:15:02 +0000] [9180] [INFO] Booting worker with pid: 9180
+[2019-11-14 16:15:02 +0000] [9181] [INFO] Booting worker with pid: 9181
+[2019-11-14 16:15:02 +0000] [9182] [INFO] Booting worker with pid: 9182
+127.0.0.1 - - [14/Nov/2019:16:16:36 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:16:16:37 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1"
+127.0.0.1 - - [14/Nov/2019:16:19:29 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 16:20:01 +0000] [9176] [INFO] Handling signal: term
+[2019-11-14 16:20:01 +0000] [9180] [INFO] Worker exiting (pid: 9180)
+[2019-11-14 16:20:01 +0000] [9181] [INFO] Worker exiting (pid: 9181)
+[2019-11-14 16:20:01 +0000] [9182] [INFO] Worker exiting (pid: 9182)
+[2019-11-14 16:20:02 +0000] [9176] [INFO] Shutting down: Master
+[2019-11-14 16:20:02 +0000] [9194] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:20:02 +0000] [9194] [INFO] Listening at: http://0.0.0.0:5000 (9194)
+[2019-11-14 16:20:02 +0000] [9194] [INFO] Using worker: sync
+[2019-11-14 16:20:02 +0000] [9198] [INFO] Booting worker with pid: 9198
+[2019-11-14 16:20:02 +0000] [9199] [INFO] Booting worker with pid: 9199
+[2019-11-14 16:20:02 +0000] [9200] [INFO] Booting worker with pid: 9200
+[2019-11-14 16:25:01 +0000] [9194] [INFO] Handling signal: term
+[2019-11-14 16:25:01 +0000] [9199] [INFO] Worker exiting (pid: 9199)
+[2019-11-14 16:25:01 +0000] [9200] [INFO] Worker exiting (pid: 9200)
+[2019-11-14 16:25:01 +0000] [9198] [INFO] Worker exiting (pid: 9198)
+[2019-11-14 16:25:02 +0000] [9194] [INFO] Shutting down: Master
+[2019-11-14 16:25:02 +0000] [9212] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:25:02 +0000] [9212] [INFO] Listening at: http://0.0.0.0:5000 (9212)
+[2019-11-14 16:25:02 +0000] [9212] [INFO] Using worker: sync
+[2019-11-14 16:25:02 +0000] [9216] [INFO] Booting worker with pid: 9216
+[2019-11-14 16:25:02 +0000] [9217] [INFO] Booting worker with pid: 9217
+[2019-11-14 16:25:02 +0000] [9218] [INFO] Booting worker with pid: 9218
+[2019-11-14 16:30:01 +0000] [9212] [INFO] Handling signal: term
+[2019-11-14 16:30:01 +0000] [9216] [INFO] Worker exiting (pid: 9216)
+[2019-11-14 16:30:01 +0000] [9217] [INFO] Worker exiting (pid: 9217)
+[2019-11-14 16:30:01 +0000] [9218] [INFO] Worker exiting (pid: 9218)
+[2019-11-14 16:30:02 +0000] [9212] [INFO] Shutting down: Master
+[2019-11-14 16:30:02 +0000] [9226] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:30:02 +0000] [9226] [INFO] Listening at: http://0.0.0.0:5000 (9226)
+[2019-11-14 16:30:02 +0000] [9226] [INFO] Using worker: sync
+[2019-11-14 16:30:02 +0000] [9230] [INFO] Booting worker with pid: 9230
+[2019-11-14 16:30:02 +0000] [9231] [INFO] Booting worker with pid: 9231
+[2019-11-14 16:30:02 +0000] [9232] [INFO] Booting worker with pid: 9232
+[2019-11-14 16:34:09 +0000] [9226] [INFO] Handling signal: term
+[2019-11-14 16:34:09 +0000] [9230] [INFO] Worker exiting (pid: 9230)
+[2019-11-14 16:34:09 +0000] [9231] [INFO] Worker exiting (pid: 9231)
+[2019-11-14 16:34:09 +0000] [9232] [INFO] Worker exiting (pid: 9232)
+[2019-11-14 16:34:10 +0000] [9226] [INFO] Shutting down: Master
+[2019-11-14 16:34:10 +0000] [9254] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:34:10 +0000] [9254] [INFO] Listening at: http://0.0.0.0:5000 (9254)
+[2019-11-14 16:34:10 +0000] [9254] [INFO] Using worker: sync
+[2019-11-14 16:34:10 +0000] [9258] [INFO] Booting worker with pid: 9258
+[2019-11-14 16:34:10 +0000] [9259] [INFO] Booting worker with pid: 9259
+[2019-11-14 16:34:10 +0000] [9260] [INFO] Booting worker with pid: 9260
+127.0.0.1 - - [14/Nov/2019:16:34:21 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:23 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:24 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:27 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:29 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:33 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:34 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:45 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:34:55 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:35:04 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+[2019-11-14 16:57:36 +0000] [9254] [INFO] Handling signal: term
+[2019-11-14 16:57:36 +0000] [9258] [INFO] Worker exiting (pid: 9258)
+[2019-11-14 16:57:36 +0000] [9259] [INFO] Worker exiting (pid: 9259)
+[2019-11-14 16:57:36 +0000] [9260] [INFO] Worker exiting (pid: 9260)
+[2019-11-14 16:57:37 +0000] [9254] [INFO] Shutting down: Master
+[2019-11-14 16:57:37 +0000] [9334] [INFO] Starting gunicorn 20.0.0
+[2019-11-14 16:57:37 +0000] [9334] [INFO] Listening at: http://0.0.0.0:5000 (9334)
+[2019-11-14 16:57:37 +0000] [9334] [INFO] Using worker: sync
+[2019-11-14 16:57:37 +0000] [9338] [INFO] Booting worker with pid: 9338
+[2019-11-14 16:57:37 +0000] [9339] [INFO] Booting worker with pid: 9339
+[2019-11-14 16:57:37 +0000] [9340] [INFO] Booting worker with pid: 9340
+127.0.0.1 - - [14/Nov/2019:16:58:09 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:13 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:15 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:16 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:23 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:25 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:29 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:31 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:33 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:16:58:42 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:58:43 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:16:58:45 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:05:56 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:17:05:58 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:17:06:00 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:17:06:01 +0000] "GET / HTTP/1.0" 200 1045 "-" "curl/7.54.0"
+127.0.0.1 - - [14/Nov/2019:17:06:06 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:07:15 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:17:21:03 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:21:04 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:21:06 +0000] "GET /stations/ HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:21:08 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/static/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:21:12 +0000] "GET /static HTTP/1.0" 404 232 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:23:10 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/static/main.min.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:17:27:35 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:05 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:05 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:16 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:16 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:17 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:19 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:22 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:11:33 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:18:12:24 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+127.0.0.1 - - [14/Nov/2019:18:46:21 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:19:12:31 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:20:25:19 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:20:25:19 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:20:26:07 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15"
+127.0.0.1 - - [14/Nov/2019:20:30:33 +0000] "GET / HTTP/1.0" 200 1045 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36"
+[2019-11-15 00:26:55 +0000] [9334] [INFO] Handling signal: term
+[2019-11-15 00:26:55 +0000] [9339] [INFO] Worker exiting (pid: 9339)
+[2019-11-15 00:26:55 +0000] [9340] [INFO] Worker exiting (pid: 9340)
+[2019-11-15 00:26:55 +0000] [9338] [INFO] Worker exiting (pid: 9338)
+[2019-11-15 00:26:55 +0000] [9334] [INFO] Shutting down: Master
+[2019-11-15 00:26:57 +0000] [10169] [INFO] Starting gunicorn 20.0.0
+[2019-11-15 00:26:57 +0000] [10169] [INFO] Listening at: http://0.0.0.0:5000 (10169)
+[2019-11-15 00:26:57 +0000] [10169] [INFO] Using worker: sync
+[2019-11-15 00:26:57 +0000] [10173] [INFO] Booting worker with pid: 10173
+[2019-11-15 00:26:57 +0000] [10174] [INFO] Booting worker with pid: 10174
+[2019-11-15 00:26:57 +0000] [10175] [INFO] Booting worker with pid: 10175
+127.0.0.1 - - [15/Nov/2019:00:27:14 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:14 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "http://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:16 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:17 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:17 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:18 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:24 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:24 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:27 +0000] "GET / HTTP/1.0" 200 1044 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+[2019-11-15 00:27:29,356] ERROR in app: Exception on /zebra [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask_caching/__init__.py", line 414, in decorated_function
+    rv = f(*args, **kwargs)
+  File "/var/www/parking/wsgi.py", line 132, in gettemplate
+    return render_template('zebra.html', data=data,table_name=table_name)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: zebra.html
+127.0.0.1 - - [15/Nov/2019:00:27:29 +0000] "GET /zebra HTTP/1.0" 500 290 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:27:29 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/zebra" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+[2019-11-15 00:27:51,189] ERROR in app: Exception on /zebra [GET]
+Traceback (most recent call last):
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 2446, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1951, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1820, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1949, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/app.py", line 1935, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask_caching/__init__.py", line 414, in decorated_function
+    rv = f(*args, **kwargs)
+  File "/var/www/parking/wsgi.py", line 132, in gettemplate
+    return render_template('zebra.html', data=data,table_name=table_name)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 138, in render_template
+    ctx.app.jinja_env.get_or_select_template(template_name_or_list),
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 869, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+    return self._load_template(name, self.make_globals(globals))
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+    template = self.loader.load(self, name, globals)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/jinja2/loaders.py", line 113, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 60, in get_source
+    return self._get_source_fast(environment, template)
+  File "/var/www/parking/venv/lib/python3.6/site-packages/flask/templating.py", line 89, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: zebra.html
+127.0.0.1 - - [15/Nov/2019:00:27:51 +0000] "GET /zebra HTTP/1.0" 500 290 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:29:12 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:29:18 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:29:32 +0000] "GET /favicon.ico HTTP/1.0" 404 232 "https://parking.metroservices.io/static/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:10 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:11 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:11 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:12 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:13 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:14 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:14 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:52 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:32:54 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:01 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:02 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:03 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:04 +0000] "GET /zebra HTTP/1.0" 200 1228 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:05 +0000] "GET /zebra HTTP/1.0" 200 1249 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+[2019-11-15 00:33:14 +0000] [10169] [INFO] Handling signal: term
+[2019-11-15 00:33:14 +0000] [10173] [INFO] Worker exiting (pid: 10173)
+[2019-11-15 00:33:14 +0000] [10175] [INFO] Worker exiting (pid: 10175)
+[2019-11-15 00:33:14 +0000] [10174] [INFO] Worker exiting (pid: 10174)
+[2019-11-15 00:33:15 +0000] [10169] [INFO] Shutting down: Master
+[2019-11-15 00:33:16 +0000] [10254] [INFO] Starting gunicorn 20.0.0
+[2019-11-15 00:33:16 +0000] [10254] [INFO] Listening at: http://0.0.0.0:5000 (10254)
+[2019-11-15 00:33:16 +0000] [10254] [INFO] Using worker: sync
+[2019-11-15 00:33:16 +0000] [10258] [INFO] Booting worker with pid: 10258
+[2019-11-15 00:33:16 +0000] [10259] [INFO] Booting worker with pid: 10259
+[2019-11-15 00:33:16 +0000] [10260] [INFO] Booting worker with pid: 10260
+127.0.0.1 - - [15/Nov/2019:00:33:20 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:22 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:27 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:29 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:30 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:33:31 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:34:31 +0000] "GET / HTTP/1.0" 200 1044 "-" "AWS Security Scanner"
+127.0.0.1 - - [15/Nov/2019:00:34:31 +0000] "GET / HTTP/1.0" 200 1044 "-" "AWS Security Scanner"
+127.0.0.1 - - [15/Nov/2019:00:34:31 +0000] "GET / HTTP/1.0" 200 1044 "-" "AWS Security Scanner"
+127.0.0.1 - - [15/Nov/2019:00:34:31 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 232 "-" "AWS Security Scanner"
+127.0.0.1 - - [15/Nov/2019:00:34:31 +0000] "GET /latest/dynamic/instance-identity/document HTTP/1.0" 404 232 "-" "AWS Security Scanner"
+127.0.0.1 - - [15/Nov/2019:00:35:56 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:35:59 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+127.0.0.1 - - [15/Nov/2019:00:36:08 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:13 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:14 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:15 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:17 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:17 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:18 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:19 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:20 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:21 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:36:22 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "curl/7.54.0"
+127.0.0.1 - - [15/Nov/2019:00:37:14 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b"
+127.0.0.1 - - [15/Nov/2019:00:37:28 +0000] "GET /zebra HTTP/1.0" 200 1176 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Safari/605.1.15"
+[2019-11-15 00:37:51 +0000] [10254] [INFO] Handling signal: term
+[2019-11-15 00:37:51 +0000] [10258] [INFO] Worker exiting (pid: 10258)
+[2019-11-15 00:37:51 +0000] [10260] [INFO] Worker exiting (pid: 10260)
+[2019-11-15 00:37:51 +0000] [10259] [INFO] Worker exiting (pid: 10259)
+[2019-11-15 00:37:51 +0000] [10254] [INFO] Shutting down: Master
+[2019-11-15 00:37:53 +0000] [10277] [INFO] Starting gunicorn 20.0.0
+[2019-11-15 00:37:53 +0000] [10277] [INFO] Listening at: http://0.0.0.0:5000 (10277)
+[2019-11-15 00:37:53 +0000] [10277] [INFO] Using worker: sync
+[2019-11-15 00:37:53 +0000] [10281] [INFO] Booting worker with pid: 10281
+[2019-11-15 00:37:53 +0000] [10282] [INFO] Booting worker with pid: 10282
+[2019-11-15 00:37:53 +0000] [10283] [INFO] Booting worker with pid: 10283
+[2019-11-15 00:44:42 +0000] [10277] [INFO] Handling signal: term
+[2019-11-15 00:44:42 +0000] [10281] [INFO] Worker exiting (pid: 10281)
+[2019-11-15 00:44:42 +0000] [10282] [INFO] Worker exiting (pid: 10282)
+[2019-11-15 00:44:42 +0000] [10283] [INFO] Worker exiting (pid: 10283)
+[2019-11-15 00:44:42 +0000] [10277] [INFO] Shutting down: Master
